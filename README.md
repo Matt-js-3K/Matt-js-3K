@@ -15,3 +15,4 @@ Im ADHD handhurt Drag and Drop dev ✔
 ### ✅ Main Features
 - JS Knowledge = 1%
 - Handhurt = 99%
+.
