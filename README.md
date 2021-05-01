@@ -17,7 +17,8 @@ Im ADHD handhurt Drag and Drop dev ✔
 </h5>
 
 ### ✅ Main Features
-- JS Knowledge = 1%
+- JS Knowledge = 0,5%
+- LUA Knowledge = 0,5%
 - FiveM Knowledge = 4%
 - Handhurt = 95%
 
