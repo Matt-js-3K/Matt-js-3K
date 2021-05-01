@@ -7,7 +7,7 @@
 <h4 align="center">
 	<a href="https://github.com/JokeDevil-com/JD_logs/releases/latest" title=""><img alt="Licence" src="https://img.shields.io/github/release/JokeDevil-com/JD_logs.svg"></a>
 	<a href="LICENSE" title=""><img alt="Licence" src="https://img.shields.io/github/license/JokeDevil-com/JD_logs.svg"></a>
-	<a href="https://discord.gg/m4BvmkG" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
+	<a href="https://discord.gg/Ckt3uYP" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/715309189458821160/widget.png"></a>
 </h4>
 
 <h4 align="center">
