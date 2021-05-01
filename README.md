@@ -21,6 +21,7 @@ Im ADHD handhurt Drag and Drop dev ✔
 - LUA Knowledge = 0,5%
 - FiveM Knowledge = 4%
 - Handhurt = 95%
+- I steal most of the shit i have on my profiler
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-js-3K&layout=compact&theme=dark-blue" alt="Languages" />
