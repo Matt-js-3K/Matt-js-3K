@@ -25,13 +25,14 @@ Im ADHD handhurt Drag and Drop dev ✔
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&theme=dark-blue" alt="Languages" />
 </p align>
+
 <h1 align="right">🔗Social Media Links: </h1>
 
-- 🤖 Check Out Hypertonic Discord Bot [Click Here](https://hypertonicdiscordbot.weebly.com/) ( i dont do shit there )
+<h2 align="right">- 🤖 Check Out Hypertonic Discord Bot [Click Here](https://hypertonicdiscordbot.weebly.com/) ( i dont do shit there ) </h2>
 
-- 🤖 Working on my ass cheeks.
+<h3 align="right">- 🤖 Working on my ass cheeks. </h3>
 
-- 🐦Follow me on Instagram: [Click Here](https://instagram.com/mts3k).
+<h4 align="right">- 🐦Follow me on Instagram: [Click Here](https://instagram.com/mts3k). </h4>
 
-- ✉ Contact Me: [Click Here](https://instagram.com/mts3k)
+<h5 align="right">- ✉ Contact Me: [Click Here](https://instagram.com/mts3k) </h5>
 <hr>
