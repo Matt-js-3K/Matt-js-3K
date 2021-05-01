@@ -28,11 +28,11 @@ Im ADHD handhurt Drag and Drop dev ✔
 
 <h1 align="right">🔗Social Media Links: </h1>
 
-<h2 align="right">- 🤖 Check Out Hypertonic Discord Bot (I dont work on that bot) [Click Here](https://hypertonicdiscordbot.weebly.com/)</h2>
+<h2 align="right">- 🤖 Check Out Hypertonic Discord Bot (I dont work on that bot) https://hypertonicdiscordbot.weebly.com/</h2>
 
 <h3 align="right">- 🤖 Working on my ass cheeks. </h3>
 
-<h4 align="right">- 🐦Follow me on Instagram: [Click Here](https://instagram.com/mts3k). </h4>
+<h4 align="right">- 🐦Follow me on Instagram: https://instagram.com/mts3k. </h4>
 
-<h5 align="right">- ✉ Contact Me: [Click Here](https://instagram.com/mts3k) </h5>
+<h5 align="right">- ✉ Contact Me: https://instagram.com/mts3k </h5>
 <hr>
