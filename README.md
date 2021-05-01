@@ -28,7 +28,7 @@ Im ADHD handhurt Drag and Drop dev ✔
 
 <h1 align="right">🔗Social Media Links: </h1>
 
-<h2 align="right">- 🤖 Check Out Hypertonic Discord Bot [Click Here](https://hypertonicdiscordbot.weebly.com/) ( i dont do shit there ) </h2>
+<h2 align="right">- 🤖 Check Out Hypertonic Discord Bot (I dont work on that bot) [Click Here](https://hypertonicdiscordbot.weebly.com/)</h2>
 
 <h3 align="right">- 🤖 Working on my ass cheeks. </h3>
 
