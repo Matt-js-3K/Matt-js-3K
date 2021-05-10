@@ -37,3 +37,5 @@ Im ADHD handhurt Drag and Drop dev ✔
 
 <h5 align="right">- ✉ Contact Me: https://instagram.com/mts3k </h5>
 <hr>
+
+<div class="nomics-ticker-widget" data-name="Ethereum" data-base="ETH" data-quote="USD"></div><script src="https://widget.nomics.com/embed.js"></script>
