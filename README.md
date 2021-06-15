@@ -23,5 +23,5 @@ I'm FiveM & Discord ''Developer'' that is currently studying Architecture
 
 <h4 align="right">- 🐦Follow me on Instagram: https://instagram.com/mts3k. </h4>
 
-<h5 align="right">- ✉ Contact Me:  mailto:matt@threekai.xyz </h5>
+<h5 align="right">- ✉ Contact Me: matt@threekai.xyz </h5>
 <hr>
