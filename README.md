@@ -2,10 +2,6 @@
 	Hi, I'm Matt3K
 </h1>
 
-<h1 align="center">
-	Join BCDOJRP Today
-</h1>
-
 <a class="widgetLogo-6zH6Nv" href="https://discord.com?utm_source=Discord%20Widget&amp;utm_medium=Logo" target="_blank"></a>
 
 <h4 align="center">
