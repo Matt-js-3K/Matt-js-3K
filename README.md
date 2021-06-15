@@ -31,5 +31,3 @@ I'm FiveM & Discord ''Developer'' that is currently studying Architecture
 
 <h5 align="right">- ✉ Contact Me:  mailto:matt@threekai.xyz </h5>
 <hr>
-
-<div class="nomics-ticker-widget" data-name="Ethereum" data-base="ETH" data-quote="USD"></div><script src="https://widget.nomics.com/embed.js"></script>
