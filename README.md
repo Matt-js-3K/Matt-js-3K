@@ -6,9 +6,7 @@
 	Join BCDOJRP Today
 </h1>
 
-<h4 align="center">
-	<a href="https://discord.gg/Ckt3uYP" title=""><img alt="Discord Status" src="https://discord.com?utm_source=Discord%20Widget&amp;utm_medium=Logo"></a>
-</h4>
+<a class="widgetLogo-6zH6Nv" href="https://discord.com?utm_source=Discord%20Widget&amp;utm_medium=Logo" target="_blank"></a>
 
 <h4 align="center">
 I'm FiveM & Discord ''Developer'' that is currently studying Architecture
