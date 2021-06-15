@@ -3,11 +3,11 @@
 </h1>
 
 <h1 align="center">
-	Join my personal Discord Below
+	Join BCDOJRP Today
 </h1>
 
 <h4 align="center">
-	<a href="https://discord.gg/Ckt3uYP" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/715309189458821160/widget.png"></a>
+	<a href="https://discord.gg/Ckt3uYP" title=""><img alt="Discord Status" src="https://discord.com?utm_source=Discord%20Widget&amp;utm_medium=Logo"></a>
 </h4>
 
 <h4 align="center">
