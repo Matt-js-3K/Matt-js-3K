@@ -9,10 +9,11 @@ I'm FiveM & Discord ''Developer'' that is currently studying Architecture
 </h5>
 
 ### ✅ Main Features
-- JS Knowledge = 0,5%
-- LUA Knowledge = 0,5%
-- FiveM Knowledge = 4%
-- Handhurt = 95%
+- JS Knowledge 
+- LUA Knowledge 
+- HTML Knowledge
+- FiveM Knowledge 
+
 
 
 <p align="left">
@@ -21,7 +22,6 @@ I'm FiveM & Discord ''Developer'' that is currently studying Architecture
 
 <h1 align="right">🔗Social Media Links: </h1>
 
-<h4 align="right">- 🐦Follow me on Instagram: https://instagram.com/mts3k. </h4>
 
 <h5 align="right">- ✉ Contact Me: matt@threekai.xyz </h5>
 <hr>
