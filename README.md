@@ -1,10 +1,10 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">👋 Hey, I'm Luis!</h1>
+<h1 align="center">👋 Hey, I'm Matt</h1>
 <br>
 <h2 align="center">I'm a Backend Node.js Developer & UI/Web Developer<br></h2>
 <div align="center">
-<a href="https://discord.com/users/479456028967305247">
-  <img src="https://lanyard-profile-readme.vercel.app/api/479456028967305247" align="center"/>
+<a href="https://discord.com/users/317271418846838786">
+  <img src="https://lanyard-profile-readme.vercel.app/api/317271418846838786" align="center"/>
 </a>
 </div>
 <p align="center">
@@ -14,5 +14,5 @@
 </p>
 <hr>
 <h2 align="center">Make sure to ⭐ Star any Projects you like! <3</h2>
-<h3 align="center"><a href='https://hypnoticsiege.codes' target="_blank">My Website</a></h3>
-<h3 align="center"><a href='mailto: luis@hypnoticsiege.codes' target="_blank">Email Me</a></h3>
+<h3 align="center"><a href='https://threekai.xyz' target="_blank">My Website</a></h3>
+<h3 align="center"><a href='mailto: matt@threekai.xyz' target="_blank">Email Me</a></h3>
