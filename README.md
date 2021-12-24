@@ -14,27 +14,18 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/317271418846838786" align="center"/>
 ## Hey 👋, I'm [Matt](https://threekai.xyz/) 
 
-<img align="right" height="60" width="60" alt="" src="https://threekai.xyzimg/avatar.png" />
+<img align="right" height="60" width="60" alt="" src="https://threekai.xyz/img/icon.png" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hypnoticsiege.net/discord)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hypnoticsiege.net/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hypnoticsiege)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://www.youtube.com/watch?v=SsKT0s5J8ko)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://threekai.xyz/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mtscjk)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=HypnoticSiege&label=Views&color=blue&style=plastic) 
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Matt-JS-3K&label=Views&color=blue&style=plastic) 
 
 I'm a High School student planning to have a career in Aviation ✈️. I always love to expand my knowledge and learn about new technologies and tools 🔨.  Exploring different ways to solve problems has always been a big part of me to this day. Currently, I do a lot of Discord Bot Development 👨🏻‍💻 and trying to learn some more Vue 👀.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
-
-### Some Highlights:
-
-- 📌 &nbsp; [Snapout Mental Health Awareness](https://snapout.nl/)
-- 🚀 &nbsp; [Discord x Twitch](https://github.com/HypnoticSiege/Discord-x-Twitch)
-- 🏫 &nbsp; [xDiscord FiveM](https://github.com/HypnoticSiege/xDiscord)
-- 🌀 &nbsp; [Discord Buttons RPC](https://github.com/HypnoticSiege/Discord-Buttons-RPC)
-- 👓 &nbsp; [Discord JS Logging](https://github.com/HypnoticSiege/Discord-JS-Logging)
-- 💻 &nbsp; [xMiranda](https://github.com/HypnoticSiege/xMiranda)
 
 ### Languages and Tools:
 
@@ -54,29 +45,24 @@ I'm a High School student planning to have a career in Aviation ✈️. I always
 
 <p align="left">
 <a href="https://github.com/Itz-Hyperz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Matt-JS-3K&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matt-JS-3K&layout=compact&langs_count=8&theme=react"/>
 </a>
 </div>
 <hr>
 <h2 align="center">Make sure to ⭐ any Projects you like! 💖</h2>
-<h3 align="center"><a href='https://hypnoticsiege.net' target="_blank">💻 My Website</a></h3>
-<h3 align="center"><a href='mailto:luis@hypnoticsiege.codes?subject=Your GitHub' target="_blank">📨 Email Me</a></h3>
-<h3 align="center"><a href='https://hypnoticsiege.net/snowside' target="_blank">☁️ Snowside Hosting</a></h3>
-<h3 align="center"><a href='https://snapout.nl' target="_blank">🧠 Snapout Mental Health Awareness</a></h3>
+<h3 align="center"><a href='https://threekai.xyz' target="_blank">💻 My Website</a></h3>
+<h3 align="center"><a href='mailto:matt@threekai.xyz?subject=Your GitHub' target="_blank">📨 Email Me</a></h3>
 </p>
 
 ---
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
-- Browser: Google Chrome
+- OS: Windows 11
+- Browser: Internet Explorer 2005
 - Code Editor: VS Code
 
 ---
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
-
----
-<small>This README was orgininally made by <a href="https://hyperz.net/">Hyperz</a> with small edits by me.</small>
